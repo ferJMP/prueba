@@ -93,7 +93,7 @@ if (!empty($_SESSION['active'])) {
             rootProp.setProperty("--background1", "rgba(230, 230, 230)");
             rootProp.setProperty("--shadow1", "rgba(119, 119, 119, 0.5)");
             rootProp.setProperty("--shadow2", "rgba(255, 255, 255, 0.85)");
-            rootProp.setProperty("--labelColor", "black");
+            rootProp.setProperty("--labelColor", "black") ;
         }
 
         function darkMode() {
